@@ -1,3 +1,4 @@
+# https://gist.github.com/shurcooL/c99a5a32551906f8a147
 import sublime
 import sublime_plugin
 import os.path
