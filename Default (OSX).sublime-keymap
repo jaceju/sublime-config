@@ -1,5 +1,6 @@
 [
 	{ "keys": [ "ctrl+super+r" ], "command": "reveal_in_side_bar" },
 	{ "keys": ["super+shift+t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
-	{ "keys": ["super+r"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} }
+	{ "keys": ["super+r"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{ "keys": ["f3"], "command": "add_to_project" }
 ]
