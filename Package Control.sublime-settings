@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dotfiles Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"FileBrowser",
+		"Focus File on Sidebar",
+		"HTML-CSS-JS Prettify",
+		"MarkdownLight",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"Pretty YAML",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SideBarGit",
+		"SyncedSideBar",
+		"TrailingSpaces"
+	]
+}
