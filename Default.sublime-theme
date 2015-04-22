@@ -1,12 +1,16 @@
 [
+    {
+        "class": "sidebar_tree",
+        "row_padding": [8, 5]
+    },
 	{
 		"class": "sidebar_label",
 		"font.bold": false,
-		"font.size": 16
+		"font.size": 14
 	},
 	{
 		"class": "sidebar_heading",
-		"font.bold": false,
-		"font.size": 16
+		"font.bold": true,
+		"font.size": 14
 	}
 ]

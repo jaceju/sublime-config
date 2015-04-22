@@ -1,4 +1,9 @@
 [
+    {
+        "class": "sidebar_tree",
+        "settings": ["Seti_sb_small_padding"],
+        "row_padding": [8, 4]
+    },
 	{
 		"class": "sidebar_label",
 		"font.bold": false,
