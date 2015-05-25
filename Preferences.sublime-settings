@@ -6,6 +6,5 @@
 	"ignored_packages":
 	[
 		"Vintage"
-	],
-	"trim_trailing_white_space_on_save": true
+	]
 }
